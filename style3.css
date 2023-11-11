@@ -1,13 +1,13 @@
 .navbar {
     overflow: hidden; 
-    background-color: rgb(227, 202, 234); 
+    background-color: #fa334ef3; 
   }
   
   
   .navbar a {
     float: right; 
     display: block; 
-    color: rgb(15, 2, 253); 
+    color: rgba(205, 219, 218, 0.986); 
     text-align: center; 
     padding: 30px 25px; 
     text-decoration: none; 
@@ -19,7 +19,7 @@
   }
   
   .navbar a:hover {
-    background-color: #d5ff01; 
+    background-color: #f52c2cfa; 
     color: rgba(213, 75, 151, 0.052); 
   }
   .content{
@@ -27,13 +27,13 @@
     font-size: medium;
     display: flex;
     border: 1px;
-    background-color: rgba(33, 26, 243, 0.996);
-    text-align: justify;
+    background-color: rgba(32, 231, 14, 0.996);
+    text-align: center;
   
   }
   .text-container {
     display: grid;
-    background-color:rgb(184, 244, 5);
+    background-color:rgba(229, 16, 41, 0.949);
     margin-right:20px
   }
   

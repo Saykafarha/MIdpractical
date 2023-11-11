@@ -1,13 +1,13 @@
 .navbar {
     overflow: hidden; 
-    background-color: rgb(227, 202, 234); 
+    background-color: #faf333df; 
   }
   
   
   .navbar a {
     float: right; 
     display: block; 
-    color: rgb(15, 2, 253); 
+    color: rgba(188, 11, 215, 0.833); 
     text-align: center; 
     padding: 30px 25px; 
     text-decoration: none; 
@@ -19,7 +19,7 @@
   }
   
   .navbar a:hover {
-    background-color: #d5ff01; 
+    background-color: #ab189acf; 
     color: rgba(213, 75, 151, 0.052); 
   }
   .content{
@@ -27,18 +27,18 @@
     font-size: medium;
     display: flex;
     border: 1px;
-    background-color: rgba(33, 26, 243, 0.996);
+    background-color: rgba(205, 9, 189, 0.541);
     text-align: justify;
   
   }
   .text-container {
     display: grid;
-    background-color:rgb(184, 244, 5);
+    background-color:rgba(229, 16, 229, 0.489);
     margin-right:20px
   }
   
   .image-container {
-    text-align: right; 
+    text-align: center; 
     margin: 0 auto; 
     padding: 20px; 
   }
@@ -48,13 +48,13 @@
   
   .red {
     display: flex;
-    padding: 40px;
+    padding: 30px;
   }
   
   .blue{
     display: inline-block;
     width: 450px;
-    margin: 30px;
+    margin: 25px;
   }
   
   .red img {
